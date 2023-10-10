@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  ozinsheDemo4
+
+  Created by Ернат on 13.08.2023.
+  
+*/
+"MY_PROFILE" = "Мой профиль";
+"LANGUAGE" = "Язык";
+"CONNECTION_ERROR" = "Ошибка соединения";
+"DARK_MODE" = "Темный режим";
+"PROFILE" = "Профиль";
+"LOGAUT" = "Выход";
+"CANCEL" = "Нет";
+"LOGAUT_BUTTON" = "Выход";
+"QESTION" = "Вы правда хотите выйти?";
+"LIST" = "Cписок";
+"SEARCH" = "Поиск";
+"PERSONAL_DATA" = "Личные данные";
+"CHENGE_PASSSWORD" = "Изменить пароль";
+"TERMS_AND_CONDITIONS" = "Условия и положения";
+"ADS" = "Объявления";
+"YOUR_NAME" = "Ваше имя";
+"TELEPHONE" = "Телефон";
+"DATA_OF_BIRTH" = "Дата рождения";
+"REGISTRATION" = "Регистрация";
+"FILL_IN_THE_DATAILS" = "Заполнить данные";
+"PASSWORD" = "Пороль";
+"REPEAT_PASSWORD" = "Повторите пароль";
+"DO_YOU_HAVE_AN_ACCOUNT" = "У вас есть аккаунт?";
+
+

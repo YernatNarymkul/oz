@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  ozinsheDemo4
+
+  Created by Ернат on 13.08.2023.
+  
+*/
+"MY_PROFILE" = "My profile";
+"LANGUAGE" = "Language";
+"CONNECTION_ERROR" = "Connection error";
+"DARK_MODE" = "Logaut";
+"PROFILE" = "Profile";
+"LOGAUT_BUTTON" = "Logaut";
+"CANCEL" = "No";
+"QESTION" = "Do you really want to go out?";
+"LIST" = "List";
+"SEARCH" = "Search";
+"PERSONAL_DATA" = "Personal data";
+"CHENGE_PASSSWORD" = "Change password";
+"TERMS_AND_CONDITIONS" = "Terms and conditions";
+"ADS" = "Ads";
+"DARK_MODE" = "Dark made";
+"YOUR_NAME" = "Your name";
+"TELEPHONE" = "Telephone";
+"DATA_OF_BIRTH" = "Date of Birth";
+"REGISTRATION" = "Registration";
+"FILL_IN_THE_DATAILS" = "Fill in the datails";
+"PASSWORD" = "Password";
+"REPEAT_PASSWORD" = "Repeat password";
+"DO_YOU_HAVE_AN_ACCOUNT" = "Do you have an account?";
+//"FULL_LENGHT_CARTOONS" = "Full-length cartoons";
+
+

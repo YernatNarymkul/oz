@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  ozinsheDemo4
+
+  Created by Ернат on 13.08.2023.
+  
+*/
+"MY_PROFILE" = "Менің профилім";
+"LANGUAGE" = "Тіл";
+"CONNECTION_ERROR" = "Қосылым қатесі";
+"DARK_MODE" = "Қараңғы режим";
+"PROFILE" = "Профиль";
+"LOGAUT" = "Шығу";
+"CANCEL" = "Жоқ";
+"LOGAUT_BUTTON" = "Шығу";
+"QESTION" = "Сіз аккаунтыныздан шығасыз ба?";
+"LIST" = "Тізім";
+"SEARCH" = "Іздеу";
+"PERSONAL_DATA" = "Жеке деректер";
+"CHENGE_PASSSWORD" = "Құпия сөзді өзгерту";
+"TERMS_AND_CONDITIONS" = "Ережелер мен шарттар";
+"ADS" = "Хабарландырулар";
+"YOUR_NAME" = "Сіздің атыңыз";
+"TELEPHONE" = "Телефон";
+"DATA_OF_BIRTH" = "Туылған күні";
+"REGISTRATION" = "Тіркелу";
+"FILL_IN_THE_DATAILS" = "Деректерді толтырыңыз";
+"PASSWORD" = "Құпия сөз";
+"REPEAT_PASSWORD" = "Құпия сөзді қайталаңыз";
+"DO_YOU_HAVE_AN_ACCOUNT" = "Сізде аккаунт бар ма?";
